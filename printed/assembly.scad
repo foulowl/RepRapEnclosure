@@ -1,3 +1,4 @@
+//Everything in one model, so you can see how it looks assembled
 //Origin is center of bottom of printer 
 
 use <octagon_ch.scad>
